@@ -1,0 +1,41 @@
+C:\Users\RAFA\source\repos\Correos\Correos\bin\Debug\Correos.exe.config
+C:\Users\RAFA\source\repos\Correos\Correos\bin\Debug\Correos.exe
+C:\Users\RAFA\source\repos\Correos\Correos\bin\Debug\Correos.pdb
+C:\Users\RAFA\source\repos\Correos\Correos\obj\Debug\Correos.csprojAssemblyReference.cache
+C:\Users\RAFA\source\repos\Correos\Correos\obj\Debug\Correos.Form1.resources
+C:\Users\RAFA\source\repos\Correos\Correos\obj\Debug\Correos.Properties.Resources.resources
+C:\Users\RAFA\source\repos\Correos\Correos\obj\Debug\Correos.csproj.GenerateResource.cache
+C:\Users\RAFA\source\repos\Correos\Correos\obj\Debug\Correos.csproj.CoreCompileInputs.cache
+C:\Users\RAFA\source\repos\Correos\Correos\obj\Debug\Correos.exe
+C:\Users\RAFA\source\repos\Correos\Correos\obj\Debug\Correos.pdb
+Z:\Grupo STE SISTEMAS 2021\Correos\Correos\bin\Debug\Correos.exe.config
+Z:\Grupo STE SISTEMAS 2021\Correos\Correos\bin\Debug\Correos.exe
+Z:\Grupo STE SISTEMAS 2021\Correos\Correos\bin\Debug\Correos.pdb
+Z:\Grupo STE SISTEMAS 2021\Correos\Correos\obj\Debug\Correos.csprojAssemblyReference.cache
+Z:\Grupo STE SISTEMAS 2021\Correos\Correos\obj\Debug\Correos.Form1.resources
+Z:\Grupo STE SISTEMAS 2021\Correos\Correos\obj\Debug\Correos.Properties.Resources.resources
+Z:\Grupo STE SISTEMAS 2021\Correos\Correos\obj\Debug\Correos.csproj.GenerateResource.cache
+Z:\Grupo STE SISTEMAS 2021\Correos\Correos\obj\Debug\Correos.csproj.CoreCompileInputs.cache
+Z:\Grupo STE SISTEMAS 2021\Correos\Correos\obj\Debug\Correos.exe
+Z:\Grupo STE SISTEMAS 2021\Correos\Correos\obj\Debug\Correos.pdb
+C:\Users\Rafael\Desktop\Correos\Correos\bin\Debug\Correos.exe.config
+C:\Users\Rafael\Desktop\Correos\Correos\bin\Debug\Correos.exe
+C:\Users\Rafael\Desktop\Correos\Correos\bin\Debug\Correos.pdb
+C:\Users\Rafael\Desktop\Correos\Correos\obj\Debug\Correos.Form1.resources
+C:\Users\Rafael\Desktop\Correos\Correos\obj\Debug\Correos.Properties.Resources.resources
+C:\Users\Rafael\Desktop\Correos\Correos\obj\Debug\Correos.csproj.GenerateResource.cache
+C:\Users\Rafael\Desktop\Correos\Correos\obj\Debug\Correos.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Correos\Correos\obj\Debug\Correos.exe
+C:\Users\Rafael\Desktop\Correos\Correos\obj\Debug\Correos.pdb
+C:\Users\Rafael\Desktop\Correos\Correos\obj\Debug\Correos.FormularioVelocidad.resources
+C:\Users\RAFAEL\Desktop\Correos\Correos\obj\Debug\Correos.csproj.AssemblyReference.cache
+C:\Users\SISTEMAS\Desktop\Correos\Correos\bin\Debug\Correos.exe.config
+C:\Users\SISTEMAS\Desktop\Correos\Correos\bin\Debug\Correos.exe
+C:\Users\SISTEMAS\Desktop\Correos\Correos\bin\Debug\Correos.pdb
+C:\Users\SISTEMAS\Desktop\Correos\Correos\obj\Debug\Correos.csproj.AssemblyReference.cache
+C:\Users\SISTEMAS\Desktop\Correos\Correos\obj\Debug\Correos.Form1.resources
+C:\Users\SISTEMAS\Desktop\Correos\Correos\obj\Debug\Correos.Properties.Resources.resources
+C:\Users\SISTEMAS\Desktop\Correos\Correos\obj\Debug\Correos.csproj.GenerateResource.cache
+C:\Users\SISTEMAS\Desktop\Correos\Correos\obj\Debug\Correos.csproj.CoreCompileInputs.cache
+C:\Users\SISTEMAS\Desktop\Correos\Correos\obj\Debug\Correos.exe
+C:\Users\SISTEMAS\Desktop\Correos\Correos\obj\Debug\Correos.pdb
